@@ -1,0 +1,24 @@
+.App{
+  background-image:url("https://www.pirouette-salopette.fr/wp-content/uploads/2022/05/Exemple-Mallette-Fille.jpg");
+width: 100%;
+height: 100vh;
+}
+
+
+.menu {
+
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 70px;
+  background-color: rgba(245, 245, 220, 0.208);
+  text-decoration: none;
+  
+
+}
+.menu a{
+  text-decoration: none;
+  text-decoration-color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
